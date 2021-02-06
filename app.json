@@ -3,7 +3,6 @@
     "name": "anime_review",
     "slug": "anime_review",
     "privacy": "public",
-    "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
       "android",
